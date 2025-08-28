@@ -168,7 +168,8 @@ dist
 
 # Gatsby files
 .cache/
-public
+# Providing the public to the project
+# public
 
 # Storybook build outputs
 .out
